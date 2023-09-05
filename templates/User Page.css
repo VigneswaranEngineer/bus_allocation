@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.background-image{
+    background-image:url("bus.png");
+    background-size:cover;
+    height:100vh;
+}
+.head-color {
+    background-color: red;
+    font-weight: bold;
+    font-family: "Times New Roman";
+    color: white;
+    padding: 1px;
+}
+
+.head {
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+
+}
+
+.border {
+    border-color: brown;
+    border-radius: 10px;
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+    border-width: 3px;
+}
+
+.margin {
+    margin: 10px;
+}
+
+.button {
+    background-color: blue;
+    font-family: "Times New Roman";
+    border-radius: 10px;
+    color: white;
+    width: 120px;
+    height: 30px;
+    margin: 20px;
+}
+
+.mar {
+    margin-left: 80px;
+}
+
+.mar1 {
+    margin-left: 100px;
+}
+
+.mar2 {
+    margin-left: 30px;
+}
+
+.mar3 {
+    margin-left: 10px;
+}
+
+.mar4 {
+    margin-left: 70px;
+}
+.width{
+    width:1400px;
+}

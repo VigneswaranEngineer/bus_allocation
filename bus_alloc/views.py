@@ -10,4 +10,4 @@ def registration(request):
     return render(request,'Registration.html')
 
 def userpage(request):
-    return render(request,'User Page.html')
+    return render(request,'userpage.html')

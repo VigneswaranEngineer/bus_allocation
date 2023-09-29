@@ -9,3 +9,5 @@ def login(request):
 def registration(request):
     return render(request,'Registration.html')
 
+
+
